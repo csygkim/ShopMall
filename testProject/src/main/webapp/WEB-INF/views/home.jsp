@@ -5,7 +5,7 @@
 
 <html>
 <head>
-	<title>Home</title>
+	<title>Home 게시판</title>
 </head>
 <body>
 <h1>
